@@ -1,0 +1,8 @@
+WARNING
+Cabin Occupied Exception
+There is no space at given cabin number 4
+2017/04/18 15:24:41
+CRITICAL
+IOException
+Output file couldn't found to save data.
+2017/04/18 15:24:41
